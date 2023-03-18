@@ -1,4 +1,4 @@
-# Note
+# NoteS
 
 NoteS is a super cool note taking app, where you can add long notes and store it forever. You can use functionalities like pin, unpin and archive to make the most out of it.
 
